@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Jeff!</h1>
 
-<b>About Me:</b>
+About Me:<br>
 I'm a inspiring Cyber Security professional looking to explore the ever-evolving world of digital threats and defenses while contributing to a safer, more secure online environment for individuals and organizations alike.
 
 ⚙️ My skills consists of: <code>.py</code>, <code>.js</code>, <code>.sql</code>, <code>.cpp</code>, <code>.html</code>, <code>.css</code>, Group Policies, Cryptography, Network Security, Operating Systems Security, Database Management, and Firewall Management. <br>
