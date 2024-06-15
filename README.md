@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Jeff!</h1>
 
 About Me:<br>
-I'm a inspiring Cyber Security professional looking to explore the ever-evolving world of digital threats and defenses while contributing to a safer, more secure online environment for individuals and organizations alike.
+IT Specialist with a strong foundation in computer science and a comprehensive background in military IT operations. Seeking a challenging role to leverage my technical skills, including network security, information assurance, and computer programming.
 
 ⚙️ My skills consists of: <code>.py</code>, <code>.js</code>, <code>.sql</code>, <code>.cpp</code>, <code>.html</code>, <code>.css</code>, Group Policies, Cryptography, Network Security, Operating Systems Security, Database Management, and Firewall Management. <br>
 💬 Feel free to reach out if you're interested in collaborating on some educational projects!<br>
