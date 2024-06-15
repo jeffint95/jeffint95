@@ -3,9 +3,9 @@
 About Me:<br>
 IT Specialist with a strong foundation in computer science and a comprehensive background in military IT operations. Seeking a challenging role to leverage my technical skills, including network security, information assurance, and computer programming.
 
-⚙️ My skills consists of: <code>.py</code>, <code>.js</code>, <code>.sql</code>, <code>.cpp</code>, <code>.html</code>, <code>.css</code>, Group Policies, Cryptography, Network Security, Operating Systems Security, Database Management, and Firewall Management. <br>
+⚙️ My skills consists of: <code>.py</code>, <code>.js</code>, <code>.sql</code>, <code>.cpp</code>, <code>.html</code>, <code>.css</code>, <code>.php</code>, <code>.bash</code>, <code>.powershell</code>, and <code>Azure</code>.
 💬 Feel free to reach out if you're interested in collaborating on some educational projects!<br>
-🌍 On my spare time I love to spend time with family/friends overlanding and camaping!<br>
+🌍 On my spare time I love to spend time with family/friends and camaping!<br>
 
 <div>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80" style="max-width: 100%;"></a>
